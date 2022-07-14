@@ -11,7 +11,7 @@
 
 ## Project
 
-This project is an example to speed up your configurations with React, and TypeScript, and Material UI when created using Vite ⚡
+This project is an example to speed up your configurations with React, TypeScript, and Material UI when created using Vite ⚡
 
 ## About Vite ⚡
 
